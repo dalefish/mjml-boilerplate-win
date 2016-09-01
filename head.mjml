@@ -1,6 +1,6 @@
 <mj-head>
 	<mj-title>Email Title</mj-title>
 	<mj-attributes>
-		<mj-all padding="0" font="Arial, Helvetica, sans-serif" font-size="11px" color="#666666" />
+		<mj-all padding="0" font-family="Arial, Helvetica, sans-serif" font-size="11px" color="#666666" />
 	</mj-attributes>
 </mj-head>
