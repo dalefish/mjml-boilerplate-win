@@ -1,6 +1,9 @@
-==========================================================
-|Author: Dale Mcconnell | Email: talk@dalemcconnell.co.uk|
-==========================================================
+=============================================================
+Massive credit to the guys at MJML, great tool http://mjml.io
+
+
+| Author: Dale Mcconnell | Email: talk@dalemcconnell. co.uk |
+=============================================================
 
 ====================
 |Introduction
