@@ -1,0 +1,11 @@
+<mj-section>
+	<mj-column>
+		<mj-text>This is the pre text for subject lines guide advise no more than 78 characters</mj-text><!-- <<= is 78 characters -->
+		<mj-raw><!-- This is an HTML Comment between text rows of the display table --></mj-raw>
+		<mj-text>this is more pre text for email client subject lines to read though not many get THIS far</mj-text>
+		<mj-text>This is just a demo</mj-text>		
+		<mj-text>This is just a demo</mj-text>
+		<mj-raw><!-- This is an HTML Comment at the tbody close of the display table --></mj-raw>
+	</mj-column>
+</mj-section>
+<mj-raw><!-- This is an HTML Comment below the table of the display table --></mj-raw>

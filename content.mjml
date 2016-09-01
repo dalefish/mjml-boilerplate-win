@@ -1,0 +1,5 @@
+<!-- Use this section for the bulk of you email, for large email it helps to break this down into separate files and include them in the index file, embeded includes are not supported at time of writing (2.3.3) -->
+<mj-section>
+	<mj-column>
+	</mj-column>
+</mj-section>
