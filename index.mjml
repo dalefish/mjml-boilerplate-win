@@ -25,6 +25,10 @@
 
 			<mj-include path="./menu.mjml" />
 
+<!-- Header -->
+			
+			<mj-include path="./header.mjml" />
+
 <!-- Content -->
 			
 			<mj-include path="./content.mjml" />
