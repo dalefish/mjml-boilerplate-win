@@ -46,6 +46,7 @@ Inside boilerplate.zip is the following file structure
 content.mjml
 footer.mjml
 head.mjml
+header.mjml
 index.html
 index.mjml
 menu.mjml
