@@ -1,5 +1,12 @@
 <mj-section>
 	<mj-column>
-		<!-- You can use either mj-social or build something custom for the social, mj-table works well -->
+		<mj-social
+            mode="horizontal"
+            display="google facebook twitter linkedin"
+            google-icon-color="#424242"
+            facebook-icon-color="#424242"
+            facebook-href="My facebook page"
+            google-href="My google+ page" 
+            padding="15px" />
 	</mj-column>
 </mj-section>
